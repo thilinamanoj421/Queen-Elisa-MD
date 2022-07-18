@@ -39,18 +39,18 @@ global.pengguna = 'MANOJ MADHUSANKHA' // Your name ඔබේ නම
 global.botnma = 'ᴹᴿ᭄₥₳₦ØJ৫᭄̊̊࿓࿔ BOT' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'ᴹᴿ᭄₥₳₦ØJ৫᭄̊̊࿓࿔' //ownernama,ownername
 global.packname = 'ᴹᴿ᭄₥₳₦ØJ৫᭄̊̊࿓࿔ Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.author = 'MANOJ' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = ' https://i.ibb.co/DWSDQgD/20210531-083328.jpg'
+global.alivelogo = ` https://i.ibb.co/DWSDQgD/20210531-083328.jpg
 global.alive = 'Hello i am Online now'
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = 
+global.welcome = `
 🌀 Thanks Fro using ᴹᴿ᭄₥₳₦ØJ৫᭄̊̊࿓࿔ bot
 ✾ Some bugs fixing
 😼♥️
